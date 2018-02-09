@@ -1,3 +1,5 @@
+The purpose of this project is to develop a client/server simulation of Remote Procedure Call communication (RPC).
+
 SERVER
 cd bin
 java Server.Server <host_port>
